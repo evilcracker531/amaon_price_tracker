@@ -6,3 +6,5 @@ python script pre-required modules:
                                    smtplib,
                                    time, 
                                    BeautifulSoup  
+
+This Code won't work with Amazon Books url
